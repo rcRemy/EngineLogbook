@@ -1,0 +1,8 @@
+﻿Engine Logbook ist eine App zur Verwaltung von RC Verbrennungsmotoren.
+
+Es kann Buch geführt werden über das verbrauchte Benzin sowie das Austauschen der Motorenteile.
+
+Zudem kann eine Excel Datei erstellt werden, die nach dem mailen oder kopieren auf Ihren Computer, zur Ablage in Ihren Unterlagen ausgedruckt werden kann.
+
+Copyright 2019 by Remy Hasler
+HASLER Electronic Engineering

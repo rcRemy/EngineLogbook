@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_exit_to_app_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_exit_to_app_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_frag_import_export.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\frag_import_export.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_ctx_event.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\ctx_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_import_export_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_import_export_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cancel_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_exit_to_app_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_exit_to_app_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_plus.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\xml_preference.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\xml\\preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_parts.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\fragment_parts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plus_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_plus_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock_black_18dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save_white_36dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_save_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_save.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_save.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_import_export_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_import_export_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_psc_edit.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\fragment_psc_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_circle_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_circle_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pref.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\activity_pref.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cancel_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\raw-de_info.txt.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\raw-de\\info.txt"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_exit_to_app_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_exit_to_app_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sort_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sort_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_engine_plus_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_engine_plus_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sort_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cancel_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_engine_delete.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\dialog_engine_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_events.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\fragment_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_piston_72.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_piston_72.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plus_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_plus_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_circle_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_save_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_engine_edit.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\fragment_engine_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_plus.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_help.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_import_export_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_import_export_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_sort_by_size.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_sort_by_size.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_ctx_menu.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\ctx_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listdivider.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable\\listdivider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_engine_event.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\activity_engine_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_details.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock_outline_wht_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_outline_wht_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_componentlist.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\item_componentlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fragment_container.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\activity_fragment_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_frag_pcc_list.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\frag_pcc_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_circle_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_add_circle_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_start.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_twopane.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\activity_twopane.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_frag_add.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\frag_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launch_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_launch_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_ctx_pscevent.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\ctx_pscevent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launch_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_launch_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_enginelist.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\item_enginelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\xml_importexport.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\xml\\importexport.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_close_clear_cancel.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_circle_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_circle_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_info_details.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_info_details.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_partslist.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\item_partslist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_plus.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cancel_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_outline_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_info_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_help_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_help_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cancel_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cancel_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_save_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_info_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info_outline_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_info_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_import_export_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_import_export_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_save_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_save_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_datetime.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\dialog_datetime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_plus.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_addevent.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\fragment_addevent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fuelbar.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable\\fuelbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_circle_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_add_circle_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_filter.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fuelbar_vert.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable\\fuelbar_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_psc_start.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\activity_psc_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_checkmark_holo_light.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_checkmark_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_lock_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_ctx_nil.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\ctx_nil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_left_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\left_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\raw-de_privacy.txt.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\raw-de\\privacy.txt"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_text.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\dialog_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_exit_to_app_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_exit_to_app_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_piston_logbook_512.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\piston_logbook_512.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_info_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_info_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launch_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_launch_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info_outline_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_info_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_plus.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_piston_blue.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_piston_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plus_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_plus_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_motor_edit.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\motor_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_save_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_outline_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock_idle_lock.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_lock_idle_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info_outline_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_info_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_piston.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_piston.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_ic_piston_holo_blue.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_ic_piston_holo_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_add.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\raw_info.txt.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\raw\\info.txt"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_eventlist.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\item_eventlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launch_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launch_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_exit_to_app_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_exit_to_app_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_frag_events.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\frag_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\menu_frag_details.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\menu\\frag_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_piston_log_72.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\piston_log_72.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\raw_privacy.txt.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\raw\\privacy.txt"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_partslist_child.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\item_partslist_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_add.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sort_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_psclist.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\item_psclist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_info_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_date.xml.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\layout\\dialog_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launch_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launch_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_add.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_import_export_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_import_export_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_piston__holo_blue.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_piston__holo_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plus.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_add.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_plus_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_plus_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plus_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_plus_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sort_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sort_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_piston_logbook_72.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\piston_logbook_72.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_piston_plus_white_24dp.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-hdpi\\ic_piston_plus_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_plus.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

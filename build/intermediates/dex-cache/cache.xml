@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pilot\.android\build-cache\67410b8545b66a3e8764e380f65a9a624be43c3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\pre-dexed\debug\classes_2eed2b47b780c26976cba1cc3d3547a5fba22837.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bec5583bce09c03e4433933d896c0a5e01e8063c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pilot\.android\build-cache\ab543ecff23cb57cdb5eacc610e4cf653bdfbf06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\pre-dexed\debug\classes_dde50352a4126edbc06a75736535a746fcfa2217.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b5cd1c757be4ff60581f597975783db079df71c">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6595d08b287447abcbf76c32e64c3accd1eea5d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pilot\.android\build-cache\8cf5c5da0ea852aa60677f4997fd714fb3257508\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9898b0489861c2dafbc8ca31236f5047ddef958d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pilot\.android\build-cache\67410b8545b66a3e8764e380f65a9a624be43c3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2eed2b47b780c26976cba1cc3d3547a5fba22837\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pilot\.android\build-cache\ab543ecff23cb57cdb5eacc610e4cf653bdfbf06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dde50352a4126edbc06a75736535a746fcfa2217\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pilot\.android\build-cache\8cf5c5da0ea852aa60677f4997fd714fb3257508\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\pre-dexed\debug\classes_9898b0489861c2dafbc8ca31236f5047ddef958d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pilot\.android\build-cache\67410b8545b66a3e8764e380f65a9a624be43c3c\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_a443c2e49975025618acb4684bf7c1bef680eb6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pilot\.android\build-cache\67410b8545b66a3e8764e380f65a9a624be43c3c\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a443c2e49975025618acb4684bf7c1bef680eb6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pilot\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_9b85872714b31b9e1394262cc47b2c3e1eec56a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pilot\.android\build-cache\99c43166e8672419e95cf452c318cd6faa2bc81b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\pre-dexed\debug\classes_18bfbd2d2b0901a846d0d3523c58cf67191abe59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pilot\.android\build-cache\ce4cdda6db0a89724f8b2ce0540b0a82cd433d98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\pre-dexed\debug\classes_d34c96dad0ef14ecad338c1d1bfbb57af254ffed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pilot\.android\build-cache\99c43166e8672419e95cf452c318cd6faa2bc81b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18bfbd2d2b0901a846d0d3523c58cf67191abe59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pilot\.android\build-cache\ce4cdda6db0a89724f8b2ce0540b0a82cd433d98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d34c96dad0ef14ecad338c1d1bfbb57af254ffed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pilot\.android\build-cache\b09d6697324bdf8f2a419298870364d726b649d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a35561945bf50f950ddf8c072167129adb8cd031\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\poi-3.10-FINAL-20140208\poi-3.10-FINAL-20140208.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e22fd3bb6a7152bd7d07c7e8901c2451b601725f">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\pre-dexed\debug\poi-3.10-FINAL-20140208_8bac48ad17eb7d35c03d79ba96f4e075d0d73261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pilot\.android\build-cache\b09d6697324bdf8f2a419298870364d726b649d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Pilot\AndroidStudioProjects\EngineLogbook\app\build\intermediates\pre-dexed\debug\classes_a35561945bf50f950ddf8c072167129adb8cd031.jar" />
+    </item>
+
+</items>

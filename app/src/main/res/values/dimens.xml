@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Default screen margins -->
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="background_margin">5dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+</resources>

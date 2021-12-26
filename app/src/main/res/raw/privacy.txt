@@ -1,0 +1,11 @@
+﻿Privacy policy
+
+RC Engine Log records information only if they are absolutely necessary for the functionality of this application. Only information explicitly supplied by the user within the app is stored. The application working offline completely and none of the stored data leave this device. Furthermore the app does not include any in-app purchase, advertisement or tracking methods.
+
+This privacy policy aims to declare the most important points how privacy is assured. In case of any questions don’t hesitate to contact rcenginelog@thurweb.ch.
+
+Requested permissions and their intent
+
+Access to device memory:
+
+Access to the device memory is required for storing and recovering backups. Backups created by the app only contain app internal and no other personal data.

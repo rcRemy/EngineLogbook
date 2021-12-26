@@ -1,0 +1,228 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ch.hasler.enginelogbook"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+11-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:7:5-8:23
+11-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:7:22-78
+12    </uses-permission>
+13
+14    <application
+14-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:10:5-120:19
+15        android:allowBackup="false"
+15-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:11:9-36
+16        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+16-->[com.android.support:support-compat:28.0.0] C:\Users\Remy\.gradle\caches\transforms-3\eaec1088239ec2bcfaac7d809f3bb425\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+17        android:debuggable="true"
+18        android:icon="@drawable/piston_log_72"
+18-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:12:9-47
+19        android:label="@string/app_name"
+19-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:13:9-41
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:14:9-40
+22        <activity
+22-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:15:9-25:20
+23            android:name="ch.hasler.enginelogbook.StartActivity"
+23-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:16:13-65
+24            android:label="@string/title_activity_start"
+24-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:17:13-57
+25            android:screenOrientation="portrait"
+25-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:18:13-49
+26            android:windowSoftInputMode="adjustResize" >
+26-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:19:13-55
+27            <intent-filter>
+27-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:20:13-24:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:21:17-69
+28-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:21:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:23:17-77
+30-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:23:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:26:9-34:20
+34            android:name="ch.hasler.enginelogbook.EngineEditActivity"
+34-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:27:13-70
+35            android:label="@string/title_activity_motor_edit"
+35-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:28:13-62
+36            android:screenOrientation="portrait"
+36-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:29:13-49
+37            android:windowSoftInputMode="stateHidden|adjustResize" >
+37-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:30:13-67
+38            <meta-data
+38-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+39                android:name="android.support.PARENT_ACTIVITY"
+39-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+40                android:value="ch.hasler.enginelogbook.StartActivity" />
+40-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+41        </activity>
+42        <activity
+42-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:35:9-43:20
+43            android:name="ch.hasler.enginelogbook.EngineEventActivity"
+43-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:36:13-71
+44            android:label="@string/title_activity_motor_event"
+44-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:37:13-63
+45            android:screenOrientation="portrait"
+45-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:38:13-49
+46            android:windowSoftInputMode="stateHidden|adjustResize" >
+46-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:39:13-67
+47            <meta-data
+47-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+48                android:name="android.support.PARENT_ACTIVITY"
+48-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+49                android:value="ch.hasler.enginelogbook.StartActivity" />
+49-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+50        </activity>
+51        <activity
+51-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:44:9-51:20
+52            android:name="ch.hasler.enginelogbook.EventEditActivity"
+52-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:45:13-69
+53            android:screenOrientation="portrait"
+53-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:46:13-49
+54            android:windowSoftInputMode="stateHidden|adjustResize" >
+54-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:47:13-67
+55            <meta-data
+55-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+56                android:name="android.support.PARENT_ACTIVITY"
+56-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+57                android:value="ch.hasler.enginelogbook.EngineEventActivity" />
+57-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+58        </activity>
+59        <activity
+59-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:52:9-61:20
+60            android:name="ch.hasler.enginelogbook.PrefActivity"
+60-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:53:13-64
+61            android:label="@string/title_activity_pref"
+61-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:54:13-56
+62            android:screenOrientation="portrait"
+62-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:55:13-49
+63            android:theme="@style/Theme.CustomPreference" >
+63-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:56:13-58
+64            <meta-data
+64-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+65                android:name="android.support.PARENT_ACTIVITY"
+65-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+66                android:value="ch.hasler.enginelogbook.StartActivity" >
+66-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+67            </meta-data>
+68        </activity>
+69        <activity
+69-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:62:9-71:20
+70            android:name="ch.hasler.enginelogbook.ImportExportActivity"
+70-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:63:13-72
+71            android:label="@string/title_activity_import_export"
+71-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:64:13-65
+72            android:screenOrientation="portrait"
+72-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:65:13-49
+73            android:theme="@style/Theme.CustomPreference" >
+73-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:66:13-58
+74            <meta-data
+74-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+75                android:name="android.support.PARENT_ACTIVITY"
+75-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+76                android:value="ch.hasler.enginelogbook.StartActivity" >
+76-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+77            </meta-data>
+78        </activity>
+79        <activity
+79-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:72:9-82:20
+80            android:name="ch.hasler.enginelogbook.PscEditActivity"
+80-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:73:13-67
+81            android:label="@string/title_activity_psc_edit"
+81-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:74:13-60
+82            android:screenOrientation="portrait"
+82-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:75:13-49
+83            android:windowSoftInputMode="stateHidden|adjustResize" >
+83-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:76:13-67
+84
+85            <!-- android:theme="@style/CustomActionBarTheme" > -->
+86            <meta-data
+86-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+87                android:name="android.support.PARENT_ACTIVITY"
+87-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+88                android:value="ch.hasler.enginelogbook.PscListActivity" >
+88-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+89            </meta-data>
+90        </activity>
+91        <activity
+91-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:83:9-93:20
+92            android:name="ch.hasler.enginelogbook.PscListActivity"
+92-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:84:13-67
+93            android:label="@string/title_activity_psc_list"
+93-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:85:13-60
+94            android:screenOrientation="portrait"
+94-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:86:13-49
+95            android:windowSoftInputMode="stateHidden|adjustResize" >
+95-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:87:13-67
+96
+97            <!-- android:theme="@style/CustomActionBarTheme" > -->
+98            <meta-data
+98-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+99                android:name="android.support.PARENT_ACTIVITY"
+99-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+100                android:value="ch.hasler.enginelogbook.StartActivity" >
+100-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+101            </meta-data>
+102        </activity>
+103        <activity
+103-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:94:9-103:20
+104            android:name="ch.hasler.enginelogbook.PscEventActivity"
+104-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:95:13-68
+105            android:screenOrientation="portrait"
+105-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:96:13-49
+106            android:windowSoftInputMode="stateHidden|adjustResize" >
+106-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:97:13-67
+107
+108            <!-- android:theme="@style/CustomActionBarTheme" > -->
+109            <meta-data
+109-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+110                android:name="android.support.PARENT_ACTIVITY"
+110-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+111                android:value="ch.hasler.enginelogbook.PscListActivity" >
+111-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+112            </meta-data>
+113        </activity>
+114        <activity
+114-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:104:9-111:20
+115            android:name="ch.hasler.enginelogbook.PscEventEditActivity"
+115-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:105:13-72
+116            android:screenOrientation="portrait"
+116-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:106:13-49
+117            android:windowSoftInputMode="stateHidden|adjustResize" >
+117-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:107:13-67
+118            <meta-data
+118-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+119                android:name="android.support.PARENT_ACTIVITY"
+119-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+120                android:value="ch.hasler.enginelogbook.PscEventActivity" />
+120-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+121        </activity>
+122        <activity
+122-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:112:9-119:20
+123            android:name="ch.hasler.enginelogbook.ComponentEventActivity"
+123-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:113:13-74
+124            android:screenOrientation="portrait"
+124-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:114:13-49
+125            android:windowSoftInputMode="stateHidden|adjustResize" >
+125-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:115:13-67
+126            <meta-data
+126-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+127                android:name="android.support.PARENT_ACTIVITY"
+127-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+128                android:value="ch.hasler.enginelogbook.PscEventActivity" />
+128-->C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+129        </activity>
+130    </application>
+131
+132</manifest>

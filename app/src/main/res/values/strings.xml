@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="system_version">Version 1.0</string>
+    <string name="filename_backup">EngineLogbook.bak</string>
+    <string name="filename_xls">EngineLogbook.xls</string>
+    <string name="file_folder">RCEngineLog</string>
+    <string name="mail_hasler">rcenginelog@thurweb.ch</string>
+    <string name="url_privacy_policy">https://sites.google.com/view/rcenginelog</string>
+    <string name="url_help">https://sites.google.com/view/rcenginelog-help</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!-- Constant Strings -->
+    <string name="constant_limit">5000</string>
+    <string name="constant_size">125</string>
+    <string name="constant_consumption">120</string>
+
+    <!-- Activity Strings -->
+    <string name="app_name">Engine Logbook</string>
+    <string name="title_activity_start">RC Engine Log</string>
+    <string name="title_activity_pref">Preferences</string>
+    <string name="title_activity_motor_edit">Edit</string>
+    <string name="title_activity_motor_new">New Engine</string>
+    <string name="title_activity_motor_event">Engine Event</string>
+    <string name="title_activity_event_new">New Event</string>
+    <string name="title_activity_import_export">Import / Export</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_psc_edit">Edit PSC-Set</string>
+    <string name="title_activity_psc_new">New Piston/Sleeve/Conrod-Set</string>
+    <string name="title_activity_psc_list">P/S/C-Set Log</string>
+    <string name="title_activity_shaft_list">Shaft Manager</string>
+    <string name="title_activity_carburetor_list">Carburetor Manager</string>
+    <string name="title_activity_plate_list">Plate Manager</string>
+    <string name="title_activity_header_list">Header Manager</string>
+    <string name="empty_list">No data</string>
+
+    <!-- Dialog Strings -->
+    <string name="dia_info">
+<![CDATA[<p>Engine Logbook is an app to manage your RC combustion engines.</p>
+        <p>You can keep record of used fuel as well of replacements of engine parts.</p>
+        <p>Also you can create an Excel file which, after you mailed or copied it to your computer, you can make a print for your documentation.</p>
+        Copyright 2019 by Remy Hasler\nHASLER Electronic Engineering]]>
+    </string>
+    <string name="dia_title_settings">Settings</string>
+    <string name="dia_title_delete">Delete</string>
+    <string name="dia_title_no_engine">No engine</string>
+    <string name="dia_no_engine">You have to create an engine first.</string>
+    <string name="dia_title_multiple_name">Name or Brand already exists.</string>
+    <string name="dia_multiple_name">Change to a unique name.</string>
+    <string name="dia_title_no_make_name">No Name or Brand</string>
+    <string name="dia_no_make_name">Please enter a Name and Brand.</string>
+    <string name="dia_title_no_psc">No P/S/C-Set.</string>
+    <string name="dia_no_psc">Please choose a P/S/C-Set. If no P/S/C-Set available, create a new set first.</string>
+    <string name="dia_info_title">RC Engine Log</string>
+    <string name="dia_delete_conf">Do you want to delete?</string>
+    <string name="dia_delete_psc">Select if P/S/C-Set schould be deleted as well.</string>
+    <string name="dia_delete_not_poss">"P/S/C-Set is built in an engine. Not possible to delete."</string>
+    <string name="dia_yes">Yes</string>
+    <string name="dia_no">No</string>
+    <string name="dia_ok">OK</string>
+    <string name="dia_cancel">Cancel</string>
+    <string name="dia_tank_size">Tanksize [ml]:</string>
+    <string name="dia_limit">Conrod fuel limit [ml]:</string>
+    <string name="dia_consumption">Consumption [ml/5min.]:</string>
+    <string name="dia_default">Default settings for</string>
+    <string name="dia_date">Date</string>
+    <string name="dia_today">Today</string>
+    <string name="hint_info">Info</string>
+    <string name="dia_title_restore">Restore</string>
+    <string name="dia_oem">OEM</string>
+    <string name="dia_file_exist_restore">
+<![CDATA[<p>With this action, you will restore data from the backup file.</p>
+        <p>All data currently in the app will be lost unless you made another backup of it.</p>
+        <p>Are you sure you want to do this?</p>
+        You can not undo this action.]]>
+    </string>
+    <string name="dia_file_not_exist_restore">
+<![CDATA[<p>No backup file exists.</p>
+        Please generate a backup file.]]>
+    </string>
+    <string name="dia_title_backup">Backup</string>
+    <string name="dia_file_exist_backup">
+<![CDATA[<p>Backup file already exists.</p>
+        <p>Old file will be overridden.</p>
+        Do you really want to make a backup?"]]>
+    </string>
+    <string name="dia_file_not_exist_backup">
+<![CDATA[<p>A backup is a copy of your data entered in this app.</p>
+        <p>We suggest you create backups periodically and after you have entered a large number of data.</p>
+        <p>You can find the backup location in the settings.</p>
+        After making a backup, you can copy or email it yourself for safekeeping on you computer.]]>
+    </string>
+    <string name="dia_title_excel">Export to Excel</string>
+    <string name="dia_xls_exist">
+<![CDATA[<p>Excel file already exists.</p>
+        <p>Old file will be overridden.</p>
+        <p>Do you really want to export to Excel file?</p>
+        <p>You can find the Excel file location in the settings.</p>
+        After making a Excel file, you can copy or email it yourself for safekeeping on you computer.]]>
+    </string>
+    <string name="dia_xls_not_exist">
+<![CDATA[<p>An Excel file will be generated.</p>
+        <p>You can find the Excel file location in the settings.</p>
+        After making a Excel file, you can copy or email it yourself for safekeeping on you computer."]]>
+    </string>
+
+    <!-- Preference Strings -->
+    <string name="pref_cattitle_default">Default settings</string>
+    <string name="pref_cattitle_files">File infos</string>
+    <string name="pref_cattitle_system">System</string>
+    <string name="pref_diatitle_consumption">Assumend fuel consumption</string>
+    <string name="pref_diatitle_tanksize">Tanksize</string>
+    <string name="pref_diatitle_limit">Conrod fuel limit</string>
+    <string name="pref_diatitle_mail">E-mail address</string>
+    <string name="pref_diatitle_files">Storage location</string>
+    <string name="pref_diatitle_backup">Backup file store place</string>
+    <string name="pref_diatitle_excel">Excel file store place</string>
+    <string name="pref_diatitle_build">Build-Version</string>
+    <string name="pref_diatitle_motor">Motor counter</string>
+    <string name="pref_diatitle_psc">Piston/Sleeve/Conrod-Set counter</string>
+    <string name="pref_summary_consumption">"Assumed fuel consumption is "</string>
+    <string name="pref_summary_tank_size">"Tanksize in use is "</string>
+    <string name="pref_summary_limit">"Conrod fuel limit is set to "</string>
+    <string name="pref_summary_no_mail">Enter e-mail address where to send files</string>
+    <string name="pref_summary_no_file">No file available</string>
+    <string name="pref_no_sdcard">Data can only be stored in internal mobile storage</string>
+    <string name="txt_ml_5min">" ml/5min"</string>
+
+    <!-- Import/Export Strings -->
+    <string name="impex_cattitle_import">Import</string>
+    <string name="impex_cattitle_export">Export database</string>
+    <string name="impex_cattitle_excel">Excel</string>
+    <string name="impex_cattitle_mail">E-mail</string>
+    <string name="impex_diatitle_createbackup">Create database backup</string>
+    <string name="impex_diatitle_restorebackup">Restore backup</string>
+    <string name="impex_diatitle_createexcel">Create Excel file</string>
+    <string name="impex_diatitle_sendmail">Send files to your e-mail address</string>
+    <string name="impex_dia_info">A backup is a copy of your data entered in this app.\nWe suggest you to create backups periodically and after you have entered a large number of data.\nAfter making a backup, you can copy or email it yourself for safekeeping on you computer.</string>
+    <string name="impex_dia_backup_exists">Backup file already exists.\nOld file will be overridden.\n\nDo you really want to make a backup?</string>
+    <string name="impex_dia_no_backup_file">No backup file exists.\n\nPlease create a backup file first.</string>
+    <string name="impex_dia_restore">With this action, you will restore data from the backup file.\nAll data currently in the app will be lost unless you made another backup of it.\n\nAre you sure you want to do this?\nYou can not undo this action.</string>
+    <string name="impex_dia_xls_exists">Excel file already exists.\nOld file will be overridden.\n\nDo you really want to export to Excel file?</string>
+
+    <!-- Menu Strings -->
+    <string name="menu_add">Add</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_backup">Backup</string>
+    <string name="menu_restore">Restore</string>
+    <string name="menu_export">Export to XLS</string>
+    <string name="menu_mail">E-Mail file</string>
+    <string name="menu_import_export">Import / Export</string>
+    <string name="menu_help">Help (Website)</string>
+    <string name="menu_add_pcc">Add new P/S/C-Set</string>
+    <string name="menu_show_pcc">P/S/C-Set Manager</string>
+    <string name="menu_show_shaft">Shaft Manager</string>
+    <string name="menu_show_carburetor">Carburetor Manager</string>
+    <string name="menu_show_plate">Plate Manager</string>
+    <string name="menu_show_header">Header Manager</string>
+
+    <!-- MotorEdit Layout Strings -->
+    <string name="lbl_name">Name</string>
+    <string name="lbl_make">Brand</string>
+    <string name="lbl_purchase_date">Purchase date</string>
+    <string name="lbl_status">Status</string>
+    <string name="lbl_psc_set">P/S/C-Set</string>
+    <string name="lbl_fuel">Initial fuel [ml]</string>
+    <string name="lbl_tank_size">Tank size [ml]</string>
+    <string name="lbl_consumption">Consumption [ml/5min.]</string>
+    <string name="lbl_compression">Compression</string>
+    <string name="lbl_plug">Plug</string>
+    <string name="lbl_spring">Clutch spring</string>
+    <string name="lbl_tension">Spring preload</string>
+    <string name="lbl_notes">Notes</string>
+    <string name="lbl_limit">Conrod limit [ml]</string>
+    <string name="lbl_clutch">Clutch type</string>
+    <string name="lbl_shoe">Shoe</string>
+    <string name="lbl_clearance">Bell clearance</string>
+    <string name="lbl_play">Axial play</string>
+    <string name="lbl_header">P/S/C-Set includes header</string>
+    <string name="title_general">General</string>
+    <string name="title_environment">Environment</string>
+    <string name="title_engine">Engine</string>
+    <string name="title_clutch">Clutch</string>
+
+    <!-- MotorDetail Layout Strings -->
+    <string name="txt_detail_total_fuel">Total fuel [ml]</string>
+
+    <!-- MotorAddEvent Layout Strings -->
+    <string name="txt_tanks">Number of tanks:</string>
+    <string name="txt_new_total">"New total fuel: "</string>
+    <string name="txt_event_date">Date</string>
+    <string name="txt_event_place">Place</string>
+    <string name="txt_event_action">Choose Action</string>
+    <string name="txt_event_fuel_consum">Fuel consumption</string>
+    <string name="txt_event_part">Part</string>
+    <string name="txt_event_notes">Notes</string>
+    <string name="txt_fuel_added">"Amount of fuel which will be added: "</string>
+    <string name="txt_run_time">Running time [min]:</string>
+    <string name="txt_fuel_amount">Fuel amount [ml]:</string>
+    <string name="txt_minus">-</string>
+    <string name="txt_plus">+</string>
+    <string name="txt_zero">0</string>
+    <string name="txt_event_psc">Piston / Sleeve / Conrod - Set</string>
+    <string name="txt_only_psc">" only P/S/C"</string>
+
+    <!-- MotorItem / PSC-Set Layout Strings -->
+    <string name="txt_fuel_used">"Engine fuel: "</string>
+    <string name="txt_ml">" ml"</string>
+    <string name="txt_fuel_limit">"Conrod limit: "</string>
+    <string name="txt_compression">"Compression: "</string>
+    <string name="txt_mm">" mm"</string>
+    <string name="txt_plug">"Plug: "</string>
+    <string name="txt_clearance">"Bell clearance: "</string>
+    <string name="txt_tension">"Spring preload: "</string>
+    <string name="txt_conrod_fuel">"Conrod fuel: "</string>
+    <string name="txt_piston_fuel">"Piston fuel: "</string>
+    <string name="txt_sleeve_fuel">"Sleeve fuel: "</string>
+    <string name="txt_make_group">"Brand group: "</string>
+    <string name="txt_built_in">"Built in: "</string>
+    <string name="txt_psc_set">"P/S/C: "</string>
+    <string name="txt_engine">"Engine: "</string>
+    <string name="txt_psc">"P/S/C: "</string>
+    <string name="txt_clutch">"Clutch: "</string>
+    <string name="txt_spring">"Spring: "</string>
+    <string name="txt_engine_destroyed">Engine destroyed</string>
+    <string name="txt_psc_destroyed">P/S/C destroyed</string>
+    <string name="txt_none">None</string>
+    <string name="txt_action_in">"Action in: "</string>
+
+    <!-- PartItem Layout Strings -->
+    <string name="txt_parts_nbr">#</string>
+    <string name="txt_last_change">Last change:</string>
+    <string name="txt_parts_fuel">Part fuel:</string>
+
+    <!-- Toast Strings -->
+    <string name="toast_cancel">Cancel</string>
+    <string name="toast_saved">Data saved</string>
+    <string name="toast_updated">Data updated</string>
+    <string name="toast_help">Help</string>
+    <string name="toast_edit">Edit</string>
+    <string name="toast_delete">Delete</string>
+    <string name="toast_input_reset">Input reseted</string>
+    <string name="toast_backup">Database saved in path:\n</string>
+    <string name="toast_restore">Database restored successfully</string>
+    <string name="toast_restore_failed">No backup file exists\nDatabase restore failed</string>
+    <string name="toast_excel">Excel file saved in path:\n</string>
+    <string name="toast_sortby">"Sort by "</string>
+
+    <!-- MotorEdit Hint Strings -->
+    <string name="hint_action">Action</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_make">Brand</string>
+    <string name="hint_purchase_date">Purchase date</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_status">Status</string>
+    <string name="hint_fuel">Fuel</string>
+    <string name="hint_tank_size">Tank size</string>
+    <string name="hint_consumption">Consumption</string>
+    <string name="hint_compression">Compression</string>
+    <string name="hint_plug">Plug</string>
+    <string name="hint_spring">Spring</string>
+    <string name="hint_tension">Preload</string>
+    <string name="hint_notes">Notes</string>
+    <string name="hint_limit">Limit</string>
+    <string name="hint_clutch">Clutch</string>
+    <string name="hint_play">Axial play</string>
+    <string name="hint_shoe">Shoe</string>
+    <string name="hint_clearance">Bell clearance</string>
+    <string name="hint_place">Place</string>
+    <string name="hint_conrod_fuel">Conrod fuel</string>
+    <string name="hint_number">Number</string>
+    <string name="hint_part">Part</string>
+    <string name="hint_changes">Changes</string>
+
+    <!-- XLS Sheet Strings -->
+    <string name="xls_part">Part</string>
+    <string name="xls_change_date">Change date</string>
+    <string name="xls_part_fuel">Part fuel</string>
+    <string name="xls_refuel_amount">Refuel amount</string>
+    <string name="xls_original_part">Original part</string>
+    <string name="xls_page">"Page "</string>
+    <string name="xls_of">" of "</string>
+
+    <!-- Mail Strings -->
+    <string name="mail_title">Send mail&#8230;</string>
+    <string name="mail_subject">Engine Logbook files</string>
+    <string name="mail_text">All available files in attachment.</string>
+    <string name="mail_text_nofiles">No files found.\nPlease create a backup or excel file first.</string>
+    <string name="mail_noclients">There are no email clients installed.</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="feedback_subject">Feedback Engine Logbook</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <!-- Tab Strings -->
+    <string-array name="tabs">
+        <item>Events</item>
+        <item>Engine</item>
+        <item>Parts</item>
+    </string-array>
+    <string-array name="pscTabs">
+        <item>Events</item>
+        <item>P/S/C</item>
+        <item>Parts</item>
+    </string-array>
+    <string-array name="componentTabs">
+        <item>Events</item>
+        <item>Component</item>
+    </string-array>
+
+    <!-- Spinner Strings -->
+    <string-array name="engine_actions">
+        <item>Refuel</item>
+        <item>Replace</item>
+        <item>Replace with used</item>
+        <item>Repair / Cleaning</item>
+        <item>Exchange P/S/C-Set</item>
+        <item>Exchange Crankshaft</item>
+    </string-array>
+    <string-array name="engine_refuel">
+        <item>by tanks</item>
+        <item>by runtime</item>
+        <item>by amount</item>
+    </string-array>
+    <string-array name="engine_status">
+        <item>New</item>
+        <item>Break In</item>
+        <item>Racing</item>
+        <item>Training</item>
+        <item>Rain</item>
+        <item>Damaged</item>
+    </string-array>
+    <string-array name="engine_parts">
+        <item>Plug</item>
+        <item>Conrod</item>
+        <item>Front Bearing</item>
+        <item>Rear Bearing</item>
+        <item>Piston</item>
+        <item>Sleeve</item>
+        <item>Under Head</item>
+        <item>Crankshaft</item>
+        <item>Piston Rod</item>
+        <item>Piston Rod Clips</item>
+        <item>Carburetor</item>
+        <item>End Plate</item>
+    </string-array>
+    <string-array name="storage_places">
+        <item>Phone intern</item>
+        <item>Internal shared storage (preferred)</item>
+        <item>SD Card</item>
+    </string-array>
+    <string-array name="storage_value">
+        <item>internal</item>
+        <item>external</item>
+        <item>sdcard</item>
+    </string-array>
+    <string name="txt_not_deletable">Not deletable</string>
+
+</resources>

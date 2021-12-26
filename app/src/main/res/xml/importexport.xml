@@ -1,0 +1,30 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/impex_cattitle_export" >
+        <Preference
+            android:key="Backup"
+            android:title="@string/impex_diatitle_createbackup" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/impex_cattitle_import" >
+        <Preference
+            android:key="Restore"
+            android:title="@string/impex_diatitle_restorebackup" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/impex_cattitle_excel" >
+        <Preference
+            android:key="Excel"
+            android:title="@string/impex_diatitle_createexcel" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/impex_cattitle_mail" >
+        <Preference
+            android:key="Send"
+            android:title="@string/impex_diatitle_sendmail" />
+
+        <EditTextPreference
+            android:dialogTitle="@string/pref_diatitle_mail"
+            android:inputType="textEmailAddress"
+            android:key="Email"
+            android:title="@string/pref_diatitle_mail" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

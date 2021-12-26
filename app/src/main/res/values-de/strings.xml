@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Activity Strings -->
+    <string name="app_name">Engine Logbook</string>
+    <string name="title_activity_start">RC Engine Log</string>
+    <string name="title_activity_pref">Einstellungen</string>
+    <string name="title_activity_motor_edit">Bearbeiten</string>
+    <string name="title_activity_motor_new">Neuer Motor</string>
+    <string name="title_activity_motor_event">Motor Ereignis</string>
+    <string name="title_activity_event_new">Neues Ereignis</string>
+    <string name="title_activity_import_export">Import / Export</string>
+    <string name="title_activity_help">Hilfe</string>
+    <string name="title_activity_psc_edit">Laufgarnitur bearbeiten</string>
+    <string name="title_activity_psc_new">Neue Laufgarnitur</string>
+    <string name="title_activity_psc_list">Laufgarnitur Log</string>
+    <string name="title_activity_shaft_list">Kurbelwellen Manager</string>
+    <string name="title_activity_carburetor_list">Vergaser Manager</string>
+    <string name="title_activity_plate_list">Gehäusedeckel Manager</string>
+    <string name="title_activity_header_list">Brennraum Manager</string>
+    <string name="empty_list">Keine Daten</string>
+
+    <!-- Dialog Strings -->
+    <string name="dia_info">
+<![CDATA[<p>Engine Logbook ist eine App zur Verwaltung von RC Verbrennungsmotoren.</p>
+        <p>Es kann Buch geführt werden über das verbrauchte Benzin sowie das Austauschen der Motorenteile.</p>
+        <p>Zudem kann eine Excel Datei erstellt werden, die nach dem mailen oder kopieren auf Ihren Computer, zur Ablage in Ihren Unterlagen ausgedruckt werden kann.</p>
+        Copyright 2019 by Remy Hasler <br/>HASLER Electronic Engineering]]>
+    </string>
+    <string name="dia_title_settings">Einstellungen</string>
+    <string name="dia_title_delete">Löschen</string>
+    <string name="dia_title_no_engine">Kein Motor</string>
+    <string name="dia_no_engine">Sie müssen zuerst einen Motor anlegen.</string>
+    <string name="dia_title_multiple_name">Name oder Hersteller existiert bereits.</string>
+    <string name="dia_multiple_name">Wählen sie einen einmaligen Namen.</string>
+    <string name="dia_title_no_make_name">Kein Name oder Hersteller.</string>
+    <string name="dia_no_make_name">Bitte geben sie Name und Hersteller ein.</string>
+    <string name="dia_title_no_psc">Keine Laufgarnitur gewählt.</string>
+    <string name="dia_no_psc">Bitte wähle eine Laufgarnitur. Falls keine Laufgarnitur zur Auswahl steht, müssen sie zuerst eine neue erstellen.</string>
+    <string name="dia_info_title">RC Engine Log</string>
+    <string name="dia_delete_conf">Wollen Sie wirklich löschen?</string>
+    <string name="dia_delete_psc">Wählen sie ob die Laufgarnitur auch gelöscht werden soll.</string>
+    <string name="dia_delete_not_poss">"Laufgarnitur ist in einem Motor eingebaut. Löschen nicht möglich."</string>
+    <string name="dia_yes">Ja</string>
+    <string name="dia_no">Nein</string>
+    <string name="dia_ok">OK</string>
+    <string name="dia_cancel">Abbrechen</string>
+    <string name="dia_tank_size">Tankgrösse [ml]:</string>
+    <string name="dia_limit">Pleuel Benzinlimit [ml]:</string>
+    <string name="dia_consumption">Verbrauch [ml/5min.]:</string>
+    <string name="dia_default">Standardeinstellungen für</string>
+    <string name="dia_date">Datum</string>
+    <string name="dia_today">Heute</string>
+    <string name="hint_info">Info</string>
+    <string name="dia_title_restore">Wiederherstellen</string>
+    <string name="dia_oem">OEM</string>
+    <string name="dia_file_exist_restore">
+<![CDATA[<p>Mit dieser Aktion werden die Daten aus der Backup Datei wiederhergestellt.</p>
+        <p>Alle Daten, die derzeit in der App sind, gehen verloren und werden mit den Daten aus dem Backup überschrieben, sofern Sie nicht vorher ein Backup davon gemacht haben.</p>
+        <p>Sind Sie sicher?</p>
+        Die Wiederherstellung kann nicht rückgängig gemacht werden.]]>
+    </string>
+    <string name="dia_file_not_exist_restore">
+<![CDATA[<p>Es existiert keine Backup Datei.</p>
+        Bitte erstellen Sie zuerst ein Backup.]]>
+    </string>
+    <string name="dia_title_backup">Backup</string>
+    <string name="dia_file_exist_backup">
+<![CDATA[<p>Eine Backup Datei existiert bereits.</p>
+        <p>Alte Datei wird überschrieben.</p>
+        Wollen Sie wirklich ein Backup erstellen?]]>
+    </string>
+    <string name="dia_file_not_exist_backup">
+<![CDATA[<p>Eine Backup Datei ist eine Kopie Ihrer Engine Logbook Datenbank.</p>
+        <p>Den Speicherort der Backup Datei finden Sie unter Enstellungen.</p>
+        Sie können sich diese Datei selber mailen oder auf Ihren Computer zur Verwahrung kopieren.]]>
+    </string>
+    <string name="dia_title_excel">Export nach Excel</string>
+    <string name="dia_xls_exist">
+<![CDATA[<p>Excel Datei existiert bereits.</p>
+        <p>Alte Datei wird überschrieben.</p>
+        <p>Wollen Sie wirklich exportieren?</p>
+        <p>Den Speicherort der Excel Datei finden Sie unter Enstellungen.</p>
+        Sie können sich diese Datei selber mailen oder auf Ihren Computer zur Verwahrung kopieren.]]>
+    </string>
+    <string name="dia_xls_not_exist">
+<![CDATA[<p>Eine Excel Datei wird erstellt.</p>
+        <p>Den Speicherort der Excel Datei finden Sie unter Enstellungen.</p>
+        Sie können sich diese Datei selber mailen oder auf Ihren Computer zur Verwahrung kopieren.]]>
+    </string>
+
+    <!-- Preference Strings -->
+    <string name="pref_cattitle_default">Standardeinstellungen</string>
+    <string name="pref_cattitle_files">Dateien Info</string>
+    <string name="pref_cattitle_system">System</string>
+    <string name="pref_diatitle_consumption">Verbrauch</string>
+    <string name="pref_diatitle_tanksize">Tankgrösse</string>
+    <string name="pref_diatitle_limit">Pleuel Benzinlimit</string>
+    <string name="pref_diatitle_mail">E-Mail Adresse</string>
+    <string name="pref_diatitle_files">Speicherort</string>
+    <string name="pref_diatitle_backup">Backup Datei Speicherort</string>
+    <string name="pref_diatitle_excel">Excel Datei Speicherort</string>
+    <string name="pref_diatitle_build">Build-Version</string>
+    <string name="pref_diatitle_motor">Anzahl erfasste Motoren</string>
+    <string name="pref_diatitle_psc">Anzahl erfasste Laufgarnituren</string>
+    <string name="pref_summary_consumption">"Geschätzter Benzinverbrauch ist "</string>
+    <string name="pref_summary_tank_size">"Verwendete Tankgrösse ist "</string>
+    <string name="pref_summary_limit">"Pleuel Benzinlimit ist gesetzt auf "</string>
+    <string name="pref_summary_no_mail">E-Mail Adresse, wohin die Dateien gesendet werden sollen</string>
+    <string name="pref_summary_no_file">Keine Datei vorhanden</string>
+    <string name="pref_no_sdcard">Daten können nur Handy intern gespeichert werden</string>
+    <string name="txt_ml_5min">" ml/5min"</string>
+
+    <!-- Import/Export Strings -->
+    <string name="impex_cattitle_import">Import</string>
+    <string name="impex_cattitle_export">Export Datenbank</string>
+    <string name="impex_cattitle_excel">Excel</string>
+    <string name="impex_cattitle_mail">E-Mail</string>
+    <string name="impex_diatitle_createbackup">Erstelle Backup der Datenbank</string>
+    <string name="impex_diatitle_restorebackup">Daten aus Backup wiederherstellen</string>
+    <string name="impex_diatitle_createexcel">Erstelle Excel Datei</string>
+    <string name="impex_diatitle_sendmail">Sende Dateien zur E-Mail Adresse</string>
+    <string name="impex_dia_info">Eine Backup Datei ist eine Kopie Ihrer Engine Logbook Datenbank.\nSie können sich diese Datei selber mailen oder auf Ihren Computer zur Verwahrung kopieren.</string>
+    <string name="impex_dia_backup_exists">Eine Backup Datei existiert bereits.\nAlte Datei wird überschrieben.\n\nWollen Sie wirklich ein Backup erstellen?</string>
+    <string name="impex_dia_no_backup_file">Es existiert keine Backup Datei.\n\nBitte erstellen Sie zuerst ein Backup.</string>
+    <string name="impex_dia_restore">Mit dieser Aktion werden die Daten aus der Backup Datei wiederhergestellt.\nAlle Daten, die derzeit in der App sind, gehen verloren und werden mit den Daten aus dem Backup überschrieben, sofern Sie nicht vorher ein Backup davon gemacht haben.\n\nSind Sie sicher?\nDie Wiederherstellung kann nicht rückgängig gemacht werden.</string>
+    <string name="impex_dia_xls_exists">Excel Datei existiert bereits.\nAlte Datei wird überschrieben.\n\nWollen Sie wirklich exportieren?</string>
+
+    <!-- Menu Strings -->
+    <string name="menu_add">Hinzufügen</string>
+    <string name="menu_sort">Sortieren</string>
+    <string name="menu_save">Speichern</string>
+    <string name="menu_cancel">Abbrechen</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_edit">Bearbeiten</string>
+    <string name="menu_delete">Löschen</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_backup">Backup</string>
+    <string name="menu_restore">Wiederherstellen</string>
+    <string name="menu_export">Export nach XLS</string>
+    <string name="menu_mail">E-Mail Datei</string>
+    <string name="menu_import_export">Import / Export</string>
+    <string name="menu_help">Hilfe (Webseite)</string>
+    <string name="menu_add_pcc">Neue Laufgarnitur hinzufügen</string>
+    <string name="menu_show_pcc">Laufgarnitur Manager</string>
+    <string name="menu_show_shaft">Kurbelwellen Manager</string>
+    <string name="menu_show_carburetor">Vergaser Manager</string>
+    <string name="menu_show_plate">Gehäusedeckel Manager</string>
+    <string name="menu_show_header">Brennraum Manager</string>
+
+    <!-- MotorEdit Layout Strings -->
+    <string name="lbl_name">Name</string>
+    <string name="lbl_make">Hersteller</string>
+    <string name="lbl_purchase_date">Kaufdatum</string>
+    <string name="lbl_status">Status</string>
+    <string name="lbl_psc_set">Laufgarnitur</string>
+    <string name="lbl_fuel">Initial Benzin [ml]</string>
+    <string name="lbl_tank_size">Tankgrösse [ml]</string>
+    <string name="lbl_consumption">Verbrauch [ml/5min.]</string>
+    <string name="lbl_compression">Verdichtung</string>
+    <string name="lbl_plug">Kerze</string>
+    <string name="lbl_spring">Kupplungsfeder</string>
+    <string name="lbl_tension">Federspannung</string>
+    <string name="lbl_notes">Notizen</string>
+    <string name="lbl_limit">Pleuel Limit [ml]</string>
+    <string name="lbl_clutch">Kupplungstyp</string>
+    <string name="lbl_shoe">Belagstyp</string>
+    <string name="lbl_clearance">Abstand Belag</string>
+    <string name="lbl_play">Axial Spiel</string>
+    <string name="lbl_header">Laufgarnitur beinhaltet Brennraum</string>
+    <string name="title_general">Allgemein</string>
+    <string name="title_environment">Umgebung</string>
+    <string name="title_engine">Motor</string>
+    <string name="title_clutch">Kupplung</string>
+
+    <!-- MotorDetail Layout Strings -->
+    <string name="txt_detail_total_fuel">Total Benzin [ml]</string>
+
+    <!-- MotorAddEvent Layout Strings -->
+    <string name="txt_tanks">Anzahl Tanks:</string>
+    <string name="txt_new_total">"Total Benzin neu: "</string>
+    <string name="txt_event_date">Datum</string>
+    <string name="txt_event_place">Ort</string>
+    <string name="txt_event_action">Wähle Aktion aus</string>
+    <string name="txt_event_fuel_consum">Benzin Verbrauch</string>
+    <string name="txt_event_part">Motorteil</string>
+    <string name="txt_event_notes">Notizen</string>
+    <string name="txt_fuel_added">"Benzinmenge die hinzugefügt wird: "</string>
+    <string name="txt_run_time">Laufzeit [min]:</string>
+    <string name="txt_fuel_amount">Benzinmenge [ml]:</string>
+    <string name="txt_minus">-</string>
+    <string name="txt_plus">+</string>
+    <string name="txt_zero">0</string>
+    <string name="txt_event_psc">Laufgarnitur</string>
+    <string name="txt_only_psc">"  nur Garnitur"</string>
+
+    <!-- MotorItem Layout Strings -->
+    <string name="txt_fuel_used">"Motor Benzin: "</string>
+    <string name="txt_ml">" ml"</string>
+    <string name="txt_fuel_limit">"Pleuel Limit: "</string>
+    <string name="txt_compression">"Verdichtung: "</string>
+    <string name="txt_mm">" mm"</string>
+    <string name="txt_plug">"Kerze: "</string>
+    <string name="txt_clearance">"Abstand Belag: "</string>
+    <string name="txt_tension">"Federspannung: "</string>
+    <string name="txt_conrod_fuel">Pleuel Benzin:</string>
+    <string name="txt_piston_fuel">Kolben Benzin:</string>
+    <string name="txt_sleeve_fuel">Zylinder Benzin:</string>
+    <string name="txt_make_group">"Gruppe: "</string>
+    <string name="txt_built_in">"Eingebaut in: "</string>
+    <string name="txt_psc_set">"Garnitur: "</string>
+    <string name="txt_engine">"Motor: "</string>
+    <string name="txt_psc">"P/S/C: "</string>
+    <string name="txt_clutch">"Kupplung: "</string>
+    <string name="txt_spring">"Feder: "</string>
+    <string name="txt_engine_destroyed">Motor kaputt</string>
+    <string name="txt_psc_destroyed">P/S/C kaputt</string>
+    <string name="txt_none">Kein</string>
+    <string name="txt_action_in">"Aktion in: "</string>
+
+    <!-- PartItem Layout Strings -->
+    <string name="txt_parts_nbr">"#"</string>
+    <string name="txt_last_change">"Letzter Wechsel:"</string>
+    <string name="txt_parts_fuel">"Teil Benzin:"</string>
+
+    <!-- Toast Strings -->
+    <string name="toast_cancel">Abbrechen</string>
+    <string name="toast_saved">Daten gespeichert</string>
+    <string name="toast_updated">Daten aktualisiert</string>
+    <string name="toast_help">Hilfe</string>
+    <string name="toast_edit">Bearbeiten</string>
+    <string name="toast_delete">Löschen</string>
+    <string name="toast_input_reset">Eingaben zurückgesetzt</string>
+    <string name="toast_backup">Datenbank gespeichert in:\n</string>
+    <string name="toast_restore">Datenbank wiederhergestellt</string>
+    <string name="toast_restore_failed">Backup Datei existiert nicht\nWiederherstellung fehlgeschlagen</string>
+    <string name="toast_excel">Excel Datei erstellt in:\n</string>
+    <string name="toast_sortby">"Sortiert nach "</string>
+
+    <!-- MotorEdit Hint Strings -->
+    <string name="hint_action">Aktion</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_make">Hersteller</string>
+    <string name="hint_purchase_date">Kaufdatum</string>
+    <string name="hint_date">Datum</string>
+    <string name="hint_status">Status</string>
+    <string name="hint_fuel">Benzin</string>
+    <string name="hint_tank_size">Tankgrösse</string>
+    <string name="hint_consumption">Verbrauch</string>
+    <string name="hint_compression">Verdichtung</string>
+    <string name="hint_plug">Kerze</string>
+    <string name="hint_spring">Feder</string>
+    <string name="hint_tension">Spannung</string>
+    <string name="hint_notes">Notizen</string>
+    <string name="hint_limit">Limit</string>
+    <string name="hint_clutch">Kupplung</string>
+    <string name="hint_play">Axial Spiel</string>
+    <string name="hint_shoe">Belag</string>
+    <string name="hint_clearance">Abstand Belag</string>
+    <string name="hint_place">Ort</string>
+    <string name="hint_conrod_fuel">Pleuel Benzin</string>
+    <string name="hint_number">Nummer</string>
+    <string name="hint_part">Bauteil</string>
+    <string name="hint_changes">Wechselanzahl</string>
+
+    <!-- XLS Sheet Strings -->
+    <string name="xls_part">Bauteil</string>
+    <string name="xls_change_date">Wechseldatum</string>
+    <string name="xls_part_fuel">Bauteil Benzin</string>
+    <string name="xls_refuel_amount">Auftankmenge</string>
+    <string name="xls_original_part">Original Bauteil</string>
+    <string name="xls_page">"Seite "</string>
+    <string name="xls_of">" von "</string>
+
+    <!-- Mail Strings -->
+    <string name="mail_title">E-Mail senden&#8230;</string>
+    <string name="mail_subject">Engine Logbook Dateien</string>
+    <string name="mail_text">Alle verfügbaren Dateien sind im Anhang.</string>
+    <string name="mail_text_nofiles">Keine Dateien gefunden.\nBitte erstellen Sie zuerst eine Backup oder Excel Datei.</string>
+    <string name="mail_noclients">Es ist keine E-Mail Anwendung installiert.</string>
+    <string name="send_feedback">Sende Feedback</string>
+    <string name="feedback_subject">Feedback Engine Logbook</string>
+    <string name="privacy_policy">DSE</string>
+
+    <!-- Tab Strings -->
+    <string-array name="tabs">
+        <item>Events</item>
+        <item>Motor</item>
+        <item>Teile</item>
+    </string-array>
+    <string-array name="pscTabs">
+        <item>Events</item>
+        <item>Garnitur</item>
+        <item>Teile</item>
+    </string-array>
+    <string-array name="componentTabs">
+        <item>Events</item>
+        <item>Component</item>
+    </string-array>
+
+    <!-- Spinner Strings -->
+    <string-array name="engine_actions">
+        <item>Auftanken</item>
+        <item>Ersetzen</item>
+        <item>Ersetzen mit gebraucht</item>
+        <item>Reparieren / Reinigen</item>
+        <item>Austausch Laufgarnitur</item>
+        <item>Austausch Kurbelwelle</item>
+    </string-array>
+    <string-array name="engine_refuel">
+        <item>nach Anzahl Tanks</item>
+        <item>nach Fahrzeit</item>
+        <item>nach Benzinmenge</item>
+    </string-array>
+    <string-array name="engine_status">
+        <item>Neu</item>
+        <item>Einlaufen</item>
+        <item>Rennmotor</item>
+        <item>Trainingsmotor</item>
+        <item>Regenmotor</item>
+        <item>Defekt</item>
+    </string-array>
+    <string-array name="engine_parts">
+        <item>Kerze</item>
+        <item>Pleuel</item>
+        <item>Frontlager</item>
+        <item>Hauptlager</item>
+        <item>Kolben</item>
+        <item>Zylinder</item>
+        <item>Brennraum</item>
+        <item>Kurbelwelle</item>
+        <item>Kolben Pin</item>
+        <item>Kolben Pin Clips</item>
+        <item>Vergaser</item>
+        <item>Enddeckel</item>
+    </string-array>
+    <string-array name="storage_places">
+        <item>Handy intern</item>
+        <item>Interner gemeinsamer Speicher (empfohlen)</item>
+        <item>SD Karte</item>
+    </string-array>
+    <string-array name="storage_value">
+        <item>internal</item>
+        <item>external</item>
+        <item>sdcard</item>
+    </string-array>
+    <string name="txt_not_deletable">Nicht löschbar</string>
+
+</resources>

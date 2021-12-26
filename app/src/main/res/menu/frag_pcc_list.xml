@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <item
+        android:id="@+id/pcc_menu_add"
+        android:icon="@drawable/ic_add_circle_white_24dp"
+        android:orderInCategory="100"
+        app:showAsAction="always|withText"
+        android:title="@string/menu_add"/>-->
+
+</menu>

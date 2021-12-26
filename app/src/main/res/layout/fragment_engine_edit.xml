@@ -1,0 +1,373 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".EngineEditActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/TitleListSeparator"
+            android:text="@string/title_general" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditName"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_name" />
+
+            <EditText
+                android:id="@+id/etEngEditName"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_name"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="textCapWords|textMultiLine" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditMake"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_make" />
+
+            <AutoCompleteTextView
+                android:id="@+id/etEngEditMake"
+                style="@style/ETEngineEdit"
+                android:completionThreshold="1"
+                android:hint="@string/hint_make"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="textCapWords|textMultiLine" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditStatus"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_status" />
+
+            <Spinner
+                android:id="@+id/spnStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:entries="@array/engine_status"
+                android:gravity="center_vertical|start" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditDate"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_purchase_date" />
+
+            <Button
+                android:id="@+id/btnEditDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:hint="@string/hint_purchase_date"
+                tools:ignore="InefficientWeight" />
+        </LinearLayout>
+
+        <TextView
+            style="@style/TitleListSeparator"
+            android:text="@string/title_environment" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditLimit"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_limit" />
+
+            <EditText
+                android:id="@+id/etEngEditLimit"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_limit"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="number" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditFuel"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_fuel" />
+
+            <EditText
+                android:id="@+id/etEngEditFuel"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_fuel"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="number" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditTanksize"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_tank_size" />
+
+            <EditText
+                android:id="@+id/etEngEditTanksize"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_tank_size"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="number" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditConsumption"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_consumption" />
+
+            <EditText
+                android:id="@+id/etEngEditConsumption"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_consumption"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="number" />
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/TitleListSeparator"
+            android:text="@string/title_engine" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditCompression"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_compression" />
+
+            <EditText
+                android:id="@+id/etEngEditCompression"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_compression"
+                android:imeOptions="flagNoExtractUi" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditPlug"
+                style="@style/TVEngineEdit"
+                android:maxLines="2"
+                android:text="@string/lbl_plug" />
+
+            <AutoCompleteTextView
+                android:id="@+id/etEngEditPlug"
+                style="@style/ETEngineEdit"
+                android:completionThreshold="1"
+                android:hint="@string/hint_plug"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="textCapCharacters|textMultiLine"
+                android:maxLines="2" />
+        </LinearLayout>
+
+        <TextView
+            style="@style/TitleListSeparator"
+            android:text="@string/title_clutch" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditClutch"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_clutch" />
+
+            <AutoCompleteTextView
+                android:id="@+id/etEngEditClutch"
+                style="@style/ETEngineEdit"
+                android:completionThreshold="1"
+                android:hint="@string/hint_clutch"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="textCapWords|textMultiLine" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditShoe"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_shoe" />
+
+            <AutoCompleteTextView
+                android:id="@+id/etEngEditShoe"
+                style="@style/ETEngineEdit"
+                android:completionThreshold="1"
+                android:hint="@string/hint_shoe"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="textCapWords|textMultiLine" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditSpring"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_spring" />
+
+            <AutoCompleteTextView
+                android:id="@+id/etEngEditSpring"
+                style="@style/ETEngineEdit"
+                android:completionThreshold="1"
+                android:hint="@string/hint_spring"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="textCapWords|textMultiLine" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditTension"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_tension" />
+
+            <EditText
+                android:id="@+id/etEngEditTension"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_tension"
+                android:imeOptions="flagNoExtractUi" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblEngEditHeader"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_play" />
+
+            <EditText
+                android:id="@+id/etEngEditPlay"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_play"
+                android:imeOptions="flagNoExtractUi" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin">
+
+            <TextView
+                android:id="@+id/lblEngEditClearance"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_clearance" />
+
+            <EditText
+                android:id="@+id/etEngEditClearance"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_clearance"
+                android:imeOptions="flagNoExtractUi" />
+
+        </LinearLayout>
+
+        <TextView
+            style="@style/TitleListSeparator"
+            android:text="@string/lbl_notes" />
+
+        <EditText
+            android:id="@+id/etEngEditNotes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_notes"
+            android:imeOptions="flagNoExtractUi"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:inputType="textCapSentences|textMultiLine" />
+    </LinearLayout>
+
+</ScrollView>

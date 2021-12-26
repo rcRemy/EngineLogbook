@@ -1,0 +1,4 @@
+#Tue Aug 20 08:48:54 CEST 2019
+base.0=C\:\\Users\\Remy\\StudioProjects\\EngineLogbook\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

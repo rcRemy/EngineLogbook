@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/ctxmenu_edit"
+        android:title="@string/menu_edit"/>
+    <item
+        android:id="@+id/ctxmenu_delete"
+        android:title="@string/menu_delete"/>
+</menu>

@@ -1,0 +1,48 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/pref_cattitle_default" >
+        <ch.hasler.enginelogbook.IntEditTextPreference
+            android:dialogTitle="@string/pref_diatitle_limit"
+            android:key="Limit"
+            android:numeric="integer"
+            android:title="@string/pref_diatitle_limit" />
+        <ch.hasler.enginelogbook.IntEditTextPreference
+            android:dialogTitle="@string/pref_diatitle_tanksize"
+            android:key="Size"
+            android:numeric="integer"
+            android:title="@string/pref_diatitle_tanksize" />
+        <ch.hasler.enginelogbook.IntEditTextPreference
+            android:dialogTitle="@string/pref_diatitle_consumption"
+            android:key="Consumption"
+            android:numeric="integer"
+            android:title="@string/pref_diatitle_consumption" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_cattitle_files" >
+        <ListPreference
+            android:entries="@array/storage_places"
+            android:entryValues="@array/storage_value"
+            android:key="Files"
+            android:title="@string/pref_diatitle_files" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_cattitle_system" >
+
+        <!--
+             <CheckBoxPreference 
+            android:key="Orientation"
+            android:title="Screen"
+            android:summaryOn="Screen only in portrait orientation"
+            android:summaryOff="Screen rotation enabled"/>
+        -->
+
+        <Preference
+            android:key="Build"
+            android:title="@string/pref_diatitle_build" />
+        <Preference
+            android:key="Motor"
+            android:title="@string/pref_diatitle_motor" />
+        <Preference
+            android:key="PSC"
+            android:title="@string/pref_diatitle_psc" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

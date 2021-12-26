@@ -1,0 +1,160 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".PscEditActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/TitleListSeparator"
+            android:text="@string/title_general" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblPscEditName"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_name" />
+
+            <EditText
+                android:id="@+id/etPscEditName"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_name"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="textCapWords|textMultiLine" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblPscEditMake"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_make" />
+
+            <Spinner
+                android:id="@+id/spnPscEditMake"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:layout_weight="1"
+                android:focusable="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblPscEditStatus"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_status" />
+
+            <Spinner
+                android:id="@+id/spnPscEditStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:layout_weight="1"
+                android:entries="@array/engine_status" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblPscEditDate"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_purchase_date" />
+
+            <Button
+                android:id="@+id/btnPscEditDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:hint="@string/hint_purchase_date" />
+        </LinearLayout>
+
+        <TextView
+            style="@style/TitleListSeparator"
+            android:text="@string/title_environment" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblPscEditLimits"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_limit" />
+
+            <EditText
+                android:id="@+id/etPscEditLimits"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_limit" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/lblPscEditFuel"
+                style="@style/TVEngineEdit"
+                android:text="@string/lbl_fuel" />
+
+            <EditText
+                android:id="@+id/etPscEditFuel"
+                style="@style/ETEngineEdit"
+                android:hint="@string/hint_fuel" />
+
+        </LinearLayout>
+
+        <CheckBox
+            android:id="@+id/cbPscEditHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_header" />
+
+        <TextView
+            style="@style/TitleListSeparator"
+            android:text="@string/lbl_notes" />
+
+        <EditText
+            android:id="@+id/etPscEditNotes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_notes"
+            android:imeOptions="flagNoExtractUi"
+            android:inputType="textCapSentences|textMultiLine" />
+    </LinearLayout>
+
+</ScrollView>

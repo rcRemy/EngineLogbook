@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ch.hasler.enginelogbook"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+
+    <application
+        android:allowBackup="false"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/piston_log_72"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="ch.hasler.enginelogbook.StartActivity"
+            android:label="@string/title_activity_start"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ch.hasler.enginelogbook.EngineEditActivity"
+            android:label="@string/title_activity_motor_edit"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ch.hasler.enginelogbook.StartActivity" />
+        </activity>
+        <activity
+            android:name="ch.hasler.enginelogbook.EngineEventActivity"
+            android:label="@string/title_activity_motor_event"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ch.hasler.enginelogbook.StartActivity" />
+        </activity>
+        <activity
+            android:name="ch.hasler.enginelogbook.EventEditActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ch.hasler.enginelogbook.EngineEventActivity" />
+        </activity>
+        <activity
+            android:name="ch.hasler.enginelogbook.PrefActivity"
+            android:label="@string/title_activity_pref"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.CustomPreference" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ch.hasler.enginelogbook.StartActivity" >
+            </meta-data>
+        </activity>
+        <activity
+            android:name="ch.hasler.enginelogbook.ImportExportActivity"
+            android:label="@string/title_activity_import_export"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.CustomPreference" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ch.hasler.enginelogbook.StartActivity" >
+            </meta-data>
+        </activity>
+        <activity
+            android:name="ch.hasler.enginelogbook.PscEditActivity"
+            android:label="@string/title_activity_psc_edit"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+
+            <!-- android:theme="@style/CustomActionBarTheme" > -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ch.hasler.enginelogbook.PscListActivity" >
+            </meta-data>
+        </activity>
+        <activity
+            android:name="ch.hasler.enginelogbook.PscListActivity"
+            android:label="@string/title_activity_psc_list"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+
+            <!-- android:theme="@style/CustomActionBarTheme" > -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ch.hasler.enginelogbook.StartActivity" >
+            </meta-data>
+        </activity>
+        <activity
+            android:name="ch.hasler.enginelogbook.PscEventActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+
+            <!-- android:theme="@style/CustomActionBarTheme" > -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ch.hasler.enginelogbook.PscListActivity" >
+            </meta-data>
+        </activity>
+        <activity
+            android:name="ch.hasler.enginelogbook.PscEventEditActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ch.hasler.enginelogbook.PscEventActivity" />
+        </activity>
+        <activity
+            android:name="ch.hasler.enginelogbook.ComponentEventActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ch.hasler.enginelogbook.PscEventActivity" />
+        </activity>
+    </application>
+
+</manifest>

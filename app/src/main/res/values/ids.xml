@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="SET_DATE" type="id" />
+    <item name="SET_TIME" type="id" />
+    <item name="SET" type="id" />
+    <item name="CANCEL" type="id" />
+</resources>

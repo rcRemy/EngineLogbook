@@ -1,0 +1,8 @@
+﻿Engine Logbook is an app to manage your RC combustion engines.
+
+You can keep record of used fuel as well of replacements of engine parts.
+
+Also you can create an Excel file which, after you mailed or copied it to your computer, you can make a print for your documentation.
+
+Copyright 2019 by Remy Hasler
+HASLER Electronic Engineering

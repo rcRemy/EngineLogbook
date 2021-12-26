@@ -1,0 +1,11 @@
+﻿Datenschutzerklärung
+
+Das RC Engine Log erfasst nur die für die Funktionen der App absolut notwendigen Informationen. Diese beziehen sich ausschließlich auf die vom Benutzer eingegebenen Motorendaten. Die App funktioniert komplett offline und keine der erfassten Daten verlässt das Gerät. Es werden weiterhin auch weder In-App Käufe noch In-App Werbung oder Tracking Verfahren genutzt.
+
+Diese Datenschutzerklärung soll die wichtigsten Punkte, wie der Datenschutz gewährleistet wird, erläutern. Falls Sie diesbezüglich Fragen haben, wenden Sie sich bitte an rcenginelog@thurweb.ch.
+
+Angefragte Berechtigungen und ihre Verwendung
+
+Zugriff auf den Speicher des Smartphones:
+
+Der Zugriff auf den Gerätespeicher wird zum Speichern und Wiederherstellen von App Datensicherungen benötigt. Die von der App  angelegten Backups enthalten ausschließlich App bezogene Daten und Einstellungen.

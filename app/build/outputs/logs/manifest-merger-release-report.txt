@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:2:1-114:12
+MERGED from [com.android.support:design:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\32b3bb122615495d1331fb2a58d8410b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\c20db9b5f5b572bb53d9e3ce4286098a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\1739c2d6854f4bfb42acb345e958cc0d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\971ec12597d5dd015ac9902a2762fb59\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\82ea051fd3ad18b8fb38e83da1d5ef6d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\0cab98b6978ca611e81291ff9197bd1a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\08ffdeaefc371697766bbb4d531c7903\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\1be4b27e6b3f53198bb7176a7740cecb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\6741123c2a5419740e737e26f1ba50d1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\4e758ce0646f2f41e50f89a9f948b8c5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\535e08382e0b56c540e317c7cbc7d405\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\989a2fd72d07026a4050d234feb33597\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:2:1-114:12
+	package
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:7:5-8:23
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:10:5-112:19
+MERGED from [com.android.support:design:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\32b3bb122615495d1331fb2a58d8410b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\32b3bb122615495d1331fb2a58d8410b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\c20db9b5f5b572bb53d9e3ce4286098a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\c20db9b5f5b572bb53d9e3ce4286098a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\1739c2d6854f4bfb42acb345e958cc0d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\1739c2d6854f4bfb42acb345e958cc0d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\971ec12597d5dd015ac9902a2762fb59\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\971ec12597d5dd015ac9902a2762fb59\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\82ea051fd3ad18b8fb38e83da1d5ef6d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\82ea051fd3ad18b8fb38e83da1d5ef6d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\0cab98b6978ca611e81291ff9197bd1a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\0cab98b6978ca611e81291ff9197bd1a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\08ffdeaefc371697766bbb4d531c7903\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\08ffdeaefc371697766bbb4d531c7903\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\6741123c2a5419740e737e26f1ba50d1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\6741123c2a5419740e737e26f1ba50d1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\4e758ce0646f2f41e50f89a9f948b8c5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\4e758ce0646f2f41e50f89a9f948b8c5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\535e08382e0b56c540e317c7cbc7d405\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\535e08382e0b56c540e317c7cbc7d405\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\989a2fd72d07026a4050d234feb33597\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\989a2fd72d07026a4050d234feb33597\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:12:9-47
+	android:allowBackup
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:11:9-36
+	android:theme
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:14:9-40
+activity#ch.hasler.enginelogbook.StartActivity
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:17:13-57
+	android:windowSoftInputMode
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:19:13-55
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:16:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:23:27-74
+activity#ch.hasler.enginelogbook.EngineEditActivity
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:28:13-62
+	android:windowSoftInputMode
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:30:13-67
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:27:13-70
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:31:13-33:73
+	android:value
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:33:17-70
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:32:17-63
+activity#ch.hasler.enginelogbook.EngineEventActivity
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:37:13-63
+	android:windowSoftInputMode
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:39:13-67
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:36:13-71
+activity#ch.hasler.enginelogbook.EventEditActivity
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:44:9-51:20
+	android:screenOrientation
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:46:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:47:13-67
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:45:13-69
+activity#ch.hasler.enginelogbook.PrefActivity
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:52:9-61:20
+	android:screenOrientation
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:54:13-56
+	android:theme
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:56:13-58
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:53:13-64
+activity#ch.hasler.enginelogbook.ImportExportActivity
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:62:9-71:20
+	android:screenOrientation
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:64:13-65
+	android:theme
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:66:13-58
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:63:13-72
+activity#ch.hasler.enginelogbook.PscEditActivity
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:72:9-82:20
+	android:screenOrientation
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:74:13-60
+	android:windowSoftInputMode
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:76:13-67
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:73:13-67
+activity#ch.hasler.enginelogbook.PscListActivity
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:83:9-93:20
+	android:screenOrientation
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:85:13-60
+	android:windowSoftInputMode
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:87:13-67
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:84:13-67
+activity#ch.hasler.enginelogbook.PscEventActivity
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:94:9-103:20
+	android:screenOrientation
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:96:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:97:13-67
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:95:13-68
+activity#ch.hasler.enginelogbook.PscEventEditActivity
+ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:104:9-111:20
+	android:screenOrientation
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:106:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:107:13-67
+	android:name
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml:105:13-72
+uses-sdk
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\32b3bb122615495d1331fb2a58d8410b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\32b3bb122615495d1331fb2a58d8410b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\c20db9b5f5b572bb53d9e3ce4286098a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\c20db9b5f5b572bb53d9e3ce4286098a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\1739c2d6854f4bfb42acb345e958cc0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\1739c2d6854f4bfb42acb345e958cc0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\971ec12597d5dd015ac9902a2762fb59\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\971ec12597d5dd015ac9902a2762fb59\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\82ea051fd3ad18b8fb38e83da1d5ef6d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\82ea051fd3ad18b8fb38e83da1d5ef6d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\0cab98b6978ca611e81291ff9197bd1a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\0cab98b6978ca611e81291ff9197bd1a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\08ffdeaefc371697766bbb4d531c7903\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\08ffdeaefc371697766bbb4d531c7903\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\1be4b27e6b3f53198bb7176a7740cecb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\1be4b27e6b3f53198bb7176a7740cecb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\6741123c2a5419740e737e26f1ba50d1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\6741123c2a5419740e737e26f1ba50d1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\4e758ce0646f2f41e50f89a9f948b8c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\4e758ce0646f2f41e50f89a9f948b8c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\535e08382e0b56c540e317c7cbc7d405\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\535e08382e0b56c540e317c7cbc7d405\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\989a2fd72d07026a4050d234feb33597\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\989a2fd72d07026a4050d234feb33597\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] C:\Users\Remy\.gradle\caches\transforms-2\files-2.1\32b3bb122615495d1331fb2a58d8410b\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Remy\StudioProjects\EngineLogbook\app\src\main\AndroidManifest.xml

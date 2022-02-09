@@ -26,6 +26,8 @@ import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
+// Github Test 1
+
 public class StartActivity extends AppCompatActivity {
 
     public static final int MODE_NEW = 0;
